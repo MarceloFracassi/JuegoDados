@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegoDados\\JuegoDados.csproj",
+      "projectUniqueName": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegoDados\\JuegoDados.csproj",
       "projectName": "JuegoDados",
-      "projectPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegoDados\\JuegoDados.csproj",
+      "projectPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegoDados\\JuegoDados.csproj",
       "packagesPath": "C:\\Users\\Malef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegoDados\\obj\\",
+      "outputPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegoDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Malef\\AppData\\Roaming\\NuGet\\NuGet.Config",

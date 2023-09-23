@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FfI/Sk8KlVuLDIk6AL02Tdvox1X7naCnyq0qEAvnFUHSoTkL7hOLVennqY/FP4UeHWS3STImWEyQiFhitPv7LQ==",
+  "dgSpecHash": "jWnXk/f8zgI20e6QZHnVjydo70ut2I7tZvOvyGFVq547Nrk9wWUbLKFa7mjS5sjZpV+zYFGr92NUrQycc7pREg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegoDados\\JuegoDados.csproj",
+  "projectFilePath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegoDados\\JuegoDados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Malef\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Malef\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
