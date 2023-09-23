@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegosDados\\JuegosDados.csproj": {}
+    "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegosDados\\JuegosDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegosDados\\JuegosDados.csproj": {
+    "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegosDados\\JuegosDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegosDados\\JuegosDados.csproj",
+        "projectUniqueName": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegosDados\\JuegosDados.csproj",
         "projectName": "JuegosDados",
-        "projectPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegosDados\\JuegosDados.csproj",
+        "projectPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegosDados\\JuegosDados.csproj",
         "packagesPath": "C:\\Users\\Malef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegosDados\\obj\\",
+        "outputPath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\PRACTICA PROG#\\JuegoDados\\JuegosDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Malef\\AppData\\Roaming\\NuGet\\NuGet.Config",
