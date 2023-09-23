@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfI/Sk8KlVuLDIk6AL02Tdvox1X7naCnyq0qEAvnFUHSoTkL7hOLVennqY/FP4UeHWS3STImWEyQiFhitPv7LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malef\\OneDrive\\Escritorio\\FACULTAD\\SEGUNDO\\PROGRAMACION 3\\Practice1\\JuegoDados\\JuegoDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Malef\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Malef\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Malef\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Malef\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Malef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Malef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
